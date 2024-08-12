@@ -1,5 +1,5 @@
 # Matryoshka
-Not accepting contributions. This repository after a425aeb9226fafaaf8a4f5d76b4b3e7d08ed4b12 only includes code changes.
+Not accepting contributions. This repository after a425aeb9226fafaaf8a4f5d76b4b3e7d08ed4b12 only includes code changes that are subject to AGPL, and any new assets under a sharealike license.
 
 ## License
 
